@@ -23,9 +23,9 @@ Here are some ways you can contribute to this documentation:
 
 ### Minor corrections
 
-Use GitHub to contribute to this documentation without having to clone the repo to your desktop. This is the easiest way to create a pull request in this repository. Use this method to make a minor change that doesn't involve code changes. 
+Use GitHub to contribute to this documentation without having to clone the repo to your desktop. This is the easiest way to create a pull request in this repository. Use this method to make some minor changes that doesn't involve code changes. 
 
-**Note** Using this method allows you to contribute to one article at a time.
+**Note** Using this method allows you to contribute to one article at a time, and that is literally a very productive approach.
 
 ### To Contribute using GitHub
 
